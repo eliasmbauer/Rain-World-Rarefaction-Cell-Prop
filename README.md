@@ -1,5 +1,4 @@
 #Thank you for supporting the open source community by cloning this project <3#
-
 Notice: This project is currently unfinished, and will be updated regularly until it's completion.
 
 In this folder you should find everything you need to get started with assembling this project yourself, <setup.pdf> should contain the step by step instructions to build this project from scratch using the design files provided. Consider <README.md> as a folder hierarchy list, as well as a description of what exactly this is for those of you unfamiliar with the video game Rain World.
@@ -8,9 +7,9 @@ In this folder you should find everything you need to get started with assemblin
 This project is a physical recreation of the Rarefaction Cell from the video game Rain World, an orb like object that can alter the gravity of the character in game.
 
 #Folder Contents
--A pdf containing the assembly instructions: <setup.pdf>
--An stl file for the chassis to hold all the components, modeled after the in game asset: <Rarefaction_Cell_Chassis.stl>
--A folder containing the gerber files necessary to edit and print the control board, as well as the files necessary for modifications: <Refraction_Cell_Circuit_(Kicad)>
--A folder containing firmware for flashing the on board Esp32 <Rarefaction_Cell_Firmware>
--A folder containing all the audio samples and raw audio bytes used in this project <Refraction_Cell_Audio_Bytes>
+A pdf containing the assembly instructions: <setup.pdf>
+An stl file for the chassis to hold all the components, modeled after the in game asset: <Rarefaction_Cell_Chassis.stl>
+A folder containing the gerber files necessary to edit and print the control board, as well as the files necessary for modifications: <Refraction_Cell_Circuit_(Kicad)>
+A folder containing firmware for flashing the on board Esp32 <Rarefaction_Cell_Firmware>
+A folder containing all the audio samples and raw audio bytes used in this project <Refraction_Cell_Audio_Bytes>
 
