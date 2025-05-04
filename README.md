@@ -14,8 +14,8 @@ This project is a physical recreation of the Rarefaction Cell from the video gam
 - **setup.pdf** 
   A PDF containing the assembly instructions.
 
-- **Rarefaction_Cell_Chassis.stl** 
-  An STL file for the chassis to hold all the components, modeled after the in-game asset.
+- **Rarefaction_Cell_Chassis** 
+  A folder containing the stl files for the chassis, modeled after the in-game asset.
 
 - **Refraction_Cell_Circuit_(Kicad)** 
   A folder containing the Gerber files necessary to edit and print the control board, as well as the files necessary for modifications.
