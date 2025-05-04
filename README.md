@@ -1,4 +1,4 @@
-# Thank you for supporting the open source community by cloning this project <3
+# Rain World Rarefaction Cell Interactjve Prop
 
 Notice: This project is currently unfinished, and will be updated regularly until it's completion.
 
