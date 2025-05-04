@@ -1,4 +1,4 @@
-# Rain World Rarefaction Cell Interactjve Prop
+# Rain World Rarefaction Cell Interactive Prop
 
 Notice: This project is currently unfinished, and will be updated regularly until it's completion.
 
