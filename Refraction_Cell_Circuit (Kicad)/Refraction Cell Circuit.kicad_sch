@@ -3928,9 +3928,9 @@
 		)
 		(uuid "12ca4feb-fc38-474f-aa85-8edf12ec40ed")
 	)
-	(text "5v to 3.3v Buck Converter\n"
+	(text "5v to 3.3v Regulator\n"
 		(exclude_from_sim no)
-		(at 64.77 72.644 0)
+		(at 72.136 72.898 0)
 		(effects
 			(font
 				(size 4 4)
@@ -5189,7 +5189,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 31.75) (xy 172.72 31.75)
+			(xy 162.56 31.75) (xy 172.72 31.75)
 		)
 		(stroke
 			(width 0)
@@ -6229,7 +6229,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 167.64 31.75 180)
+		(at 162.56 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6239,7 +6239,7 @@
 		)
 		(uuid "71ea923c-66a7-4c2a-b0b9-228170c5d981")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.5424 31.75 0)
+			(at 155.4624 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
